@@ -1,0 +1,7 @@
+name: MinasPractice
+author: Hunh0w alias Kezua
+version: 1.0
+main: fr.hunh0w.practice.Practice
+depend: [SmartInvs, CrackShotPlus, CrackShot]
+commands:
+  practice:

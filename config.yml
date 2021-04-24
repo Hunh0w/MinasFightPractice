@@ -1,0 +1,10 @@
+config:
+  prefix: "&7&lMinas&4&lPractice&8&l│"
+  DUEL_START: 5
+  spawn:
+    X: 0
+    Y: 70
+    Z: 0
+    yaw: 0
+    pitch: 0
+    world: "world"
